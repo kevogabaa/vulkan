@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+*.spv
 
 # IntelliJ IDEA files
 .idea/
